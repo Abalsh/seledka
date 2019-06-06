@@ -2,6 +2,7 @@
 ## Using Antiviruses
 * It is one of the utmost tasks to set up an antivirus in order to protect your device from malware and dangerous creatures.
 * There is a special tool called Virus Total which used on the web to scan malicious links, files, ip addresses, and file hashes using more than 70 anti-viruses, think of it as a software that uses other anti-viruses to scan all at once.
+// for additional information on Virus Total, refer to their website: www.virustotal.com
 ## Detecting Malicious Plugins
 * Open a browser window and visit a known-good website, such as Google.com. Infected plugins often inject advertisements into the pages that display. If you see a lot of ads or strange text, you probably have an infected browser plugin. Ask a co-worker to pull up the same site on their computer and compare the appearance.
 * Manually enter a few Web addresses to determine whether the browser opens the correct pages. Some malicious plugins will redirect you to unsafe websites or produce pop-up advertisements.
@@ -27,10 +28,10 @@ here's an overview:
 - FireFox.
 - Safari (Mac OS Users).
 - Opera.
-- Internet Explorer (pls don't).
-- Microsoft Edge (meh).
+- Internet Explorer.
+- Microsoft Edge.
 * The above mentioned choices are all browsers with considerable amount of marketshare, Google Chrome is the browser of choice for any user who wishes comfort in their experience as it is the absolute king of browsers in terms of the marketshare.
-* Internet Explorer does not provide a very nice browsing experience ugly UI, not implementing some W3C standards, this results in websites looking frankly, horrifingly weird.
+* Internet Explorer does not provide a very nice browsing experience as it is often criticised for having an ugly UI, addtionally, it is accused of not implementing some W3C standards, this results in websites looking frankly, horrifingly weird.
 * For those seeking privacy (something Google Chrome doesn't care about), Firefox is the choice as it provides for an excellent experience.
 * It's important to note however that, a large number of lesser known browsers tend to be based off of either Google Chrome or Firefox, the difference is the added features.
 * For those who are absolutely stingy about privacy and security, Brave Browser is the choice.
