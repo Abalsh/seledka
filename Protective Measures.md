@@ -41,10 +41,11 @@ here's an overview:
 - Outlook
 - Yahoo
 - AOL
-- Thunderbird
 * The choice mainly lies within opinion, by large however, from a security perspective, using Thunderbird is better as it is less targeted by hackers (unlike Outlook, for example), but all in all, it is the choice of the person.
 * On more Technical terms, Email Storage Capacity, size limit,Recipient limit, and email send limit are the choices for a niche community of people
 * It is important to note however, that for the large majority, using any client provider mentioned above should provide a comfortable experience.
+* There is a program called Thunderbird, which is a cross-platform software that can communicate with all the mail services provided above in a single interface.
+// For more information on Thunderbird, head to: https://www.thunderbird.net/en-US/
 ## Storing Passwords: The Secure Way
 * Explore Password Managers.
 * Enable MFA (Multi Factor Authentication).
